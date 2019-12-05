@@ -22,7 +22,9 @@ function numberThird() {
     var f = d / c;
 
     for (var j = 0; j < 31; j++) {
-        console.log(j);
+        if (j % f) {
+            console.log(j);
+        }
     }
 }
 
