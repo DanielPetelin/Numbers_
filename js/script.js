@@ -19,6 +19,7 @@ function number() {
 function numberThird() {
     var d = 6;
     var c = 3;
+    var f = d / c;
 
     for (var j = 0; j < 31; j++) {
         console.log(j);
