@@ -16,6 +16,7 @@ function number() {
     }
 }
 
+function numberThird() {}
 
 numbers(); 
 number();
