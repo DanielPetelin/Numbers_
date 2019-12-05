@@ -19,7 +19,12 @@ function number() {
 function numberThird() {
     var d = 6;
     var c = 3;
+
+    for (var j = 0; j < 31; j++) {
+        console.log(j);
+    }
 }
 
+numberThird();
 numbers(); 
 number();
