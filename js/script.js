@@ -11,5 +11,6 @@ function number() {
     console.log(a);
 }
 
-number();
+
 numbers(); 
+number();
