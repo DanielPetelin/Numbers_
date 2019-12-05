@@ -6,4 +6,9 @@ function numbers() {
     }
 }
 
+function number() {
+    var a = 3;
+    console.log(a);
+}
+
 numbers(); 
