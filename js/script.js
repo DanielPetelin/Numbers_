@@ -10,7 +10,9 @@ function number() {
     var a = 2;
 
     for (var i = 0; i < 31; i++) {
-        console.log(i);
+        if (i % a) {
+            console.log(i);
+        }
     }
 }
 
