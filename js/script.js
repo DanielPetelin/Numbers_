@@ -16,7 +16,10 @@ function number() {
     }
 }
 
-function numberThird() {}
+function numberThird() {
+    var d = 6;
+    var c = 3;
+}
 
 numbers(); 
 number();
